@@ -1,5 +1,5 @@
 import Link from "next/link";
-import ProductCard from "./components/ProductCard";
+import ProductCard from "./components/ProductCard/ProductCard";
 //all the components in the app folder are server components by default
 //server components cannot handle click events
 //but buttons can be rendered on the client and the rest of the component can be rendered on the server
